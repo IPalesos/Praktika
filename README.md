@@ -24,8 +24,8 @@
 
 Чтобы выделить текст как код, поместите его в тройные кавычки `````. 
 ---
-'''mkdir my_project
+```mkdir my_project
 cd my_project
-git init'''
+git init```.
 ---
 Это лишь некоторые функции markdown.
